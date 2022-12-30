@@ -1,5 +1,5 @@
 # Student-Registration-System
-Pequeno projeto da faculdade que consiste na criação de um menu que possibilita o usuário manipular/criar um banco de dados de alunos.
+Pequeno projeto da faculdade que consiste na criação de um menu que possibilita o usuário manipular/criar uma lista de alunos.
 O codigo apresenta um sistema que funciona como um menu para o usuario, onde o usuario pode:
 
 * Cadastrar um aluno;
